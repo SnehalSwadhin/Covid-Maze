@@ -5,6 +5,8 @@ Luckily, there are various water pools and the new Drug which he may use to wash
 
 Can you beat the virus?
 
+![Main Menu](https://github.com/SnehalSwadhin/Covid-Maze/blob/c3a44a60f7562d158fada22e552cd172c2f02e43/Main-menu.png)
+
 ## Features implemented
 * The world is a 16x16 grid
 * The procedural generation of the grid is a backtracking algorithm that assigns each position in the grid with one of the following items
